@@ -1,5 +1,9 @@
 # Portfolio IB
 
-[link do strony](https://bewu-ib.github.io/portfolio/index.html)
+[Strona](https://bewu-ib.github.io/portfolio/index.html) na której znajduje się portfolio.
 
-###### Bartek Włodarczyk 1IBb
+<br/>
+
+
+###### Bartek Włodarczyk 1IBb 2020
+[github.com](https://github.com/bewu-ib/portfolio)
