@@ -1,5 +1,6 @@
 ### **TODO:**
 
- - dodać zdjęcie do projektu "jimr"
- - zmienić linki na zależne
- - wiecej wpisow
+ - [ ] dodać zdjęcie do projektu "jimr"
+ - [x] zmienić linki na zależne
+ - [x] zmienić domenę
+ - [ ] wiecej wpisow
