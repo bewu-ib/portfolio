@@ -9,4 +9,5 @@ Prezentacje innych i ich spojrzenie na ten temat pokazało mi jak różnie możn
 
 
 ###### 3.10.2020 <br/> Bartek Włodarczyk
-[powrót](index.html)
+[powrót do procesu](index.html) <br/>
+[powrót do projektów](https://bewu-ib.github.io/portfolio/wpisy/Projekty/index.html)
