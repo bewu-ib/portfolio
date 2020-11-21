@@ -7,4 +7,4 @@
 <br/>
 
 ###### Bartek Włodarczyk 1IBb 2020
-[powrót](../index.html)
+[powrót](../../index.html)
