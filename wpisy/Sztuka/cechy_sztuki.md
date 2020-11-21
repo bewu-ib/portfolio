@@ -20,4 +20,4 @@ Wszystkie te cechy pochodzą z różnych okresów, niektóre z starożytności, 
 Wiele z tych definicji jest bardzo różna od siebie, dlatego uważam, że całej sztuki nie da się zmieścić pod jedną z nich. Definicje te pasują oczywiście do sztuki, ale nie całej. Z tego powodu uważam, że żeby nadać sztuce definicję należałoby ją nadać oddzielną dla każdej epoki. Przez lata sztuka bardzo się zmieniała, jednak w niektórych okresach sztuka kierowała się podobnymi „zasadami”. Dlatego np.: do sztuki klasycznej pasowałaby definicja pierwsza, a do sztuki współczesnej czwarta.
 
 ###### 10.09.2020 <br/> Bartek Włodarczyk
-[powrót](index.html)
+[powrót do kategorii](index.html)

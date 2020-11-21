@@ -1,12 +1,12 @@
 # Porftolio
 
 ### Kategorie:
- - [Testowe](https://bewu-ib.github.io/portfolio/wpisy/Testowe/index.html)
- - [Liryka](https://bewu-ib.github.io/portfolio/wpisy/Liryka/index.html)
+ - [Testowe](wpisy/Testowe/index.html)
+ - [Liryka](wpisy/Liryka/index.html)
  - [Sztuka](wpisy/Sztuka/index.html)
  - [Projekty](wpisy/Projekty/index.html)
 
-[Lista chronologiczna](https://bewu-ib.github.io/portfolio/lista.html)
+[Lista chronologiczna](lista.html)
 
 <br/>
 

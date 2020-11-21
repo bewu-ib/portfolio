@@ -5,4 +5,4 @@
 <br/>
 
 ###### Bartek Włodarczyk 1IBb 2020
-[powrót](https://bewu-ib.github.io/portfolio/index.html)
+[powrót](../index.html)

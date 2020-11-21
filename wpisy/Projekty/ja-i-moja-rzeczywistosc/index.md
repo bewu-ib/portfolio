@@ -30,4 +30,4 @@ Wszystkie te litery układają się we mnie. Każda z tych 5 rzeczy to w jakiej 
 [Moje wrażenia po projekcie](wrazenia.html)
 
 ###### 15.09.2020 <br/> Bartek Włodarczyk
-[powrót](https://bewu-ib.github.io/portfolio/wpisy/Projekty/index.html)
+[powrót do kategorii](../index.html)

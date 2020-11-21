@@ -8,4 +8,4 @@ Podmiot potwierdza potem brak jakichkolwiek jego emocji mówiąc, że umarł ju�
 
 
 ###### 14.09.2020 <br/> Bartek Włodarczyk
-[powrót](https://bewu-ib.github.io/portfolio/wpisy/Liryka/index.html)
+[powrót do kategorii](index.html)

@@ -1,6 +1,6 @@
 # Portfolio IB
 
-[Strona](https://bewu-ib.github.io/portfolio/index.html) na której znajduje się portfolio.
+[Strona](https://bewu-ib.github.io/portfolio/index.html) na której znajduje się portfolio. (https://bewu.ga)
 
 <br/>
 
